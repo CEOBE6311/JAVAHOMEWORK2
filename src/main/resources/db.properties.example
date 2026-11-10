@@ -1,0 +1,6 @@
+jdbc.driver=com.mysql.cj.jdbc.Driver
+jdbc.url=jdbc:mysql://127.0.0.1:3306/libraryadmin?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&useSSL=false&allowPublicKeyRetrieval=true
+jdbc.username=root
+jdbc.password=请填写你的MySQL密码
+app.allowStaffRegister=true
+app.captcha.enabled=true
